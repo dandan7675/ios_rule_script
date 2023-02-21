@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-15 23:44:59
+# UPDATED: 2023-02-22 02:14:54
 # DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37785
+# DOMAIN-SUFFIX: 37832
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38113
+# TOTAL: 38160
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -222,6 +222,7 @@ assets-priconne-redive-us.akamaized.net
 .1337x.is
 .161sex.com
 .16885858.com
+.168sex.top
 .16fhgdty.xyz
 .16honeys.com
 .171xx.com
@@ -440,6 +441,7 @@ assets-priconne-redive-us.akamaized.net
 .91se.fun
 .91sesex.xyz
 .920share.com
+.922tp.com
 .928.plus
 .942porn.com
 .97dounai.top
@@ -463,6 +465,7 @@ assets-priconne-redive-us.akamaized.net
 .a2z.com
 .a2z.org.cn
 .a2zapk.com
+.a7sex.com
 .aaagradeheadphones.com
 .aacrjournals.org
 .aadmv.com
@@ -1339,6 +1342,7 @@ assets-priconne-redive-us.akamaized.net
 .assylum.com
 .asus.com
 .atandt.com
+.atasale.com
 .atdmt2.com
 .ateam-oracle.com
 .atkgallery.com
@@ -1432,6 +1436,7 @@ assets-priconne-redive-us.akamaized.net
 .avhome.one
 .avinetworks.com
 .avinin.com
+.avizoon.site
 .avizoone.com
 .avmoo.click
 .avn.com
@@ -2449,6 +2454,9 @@ assets-priconne-redive-us.akamaized.net
 .bnbstatic.com
 .bnef.com
 .bnet.163.com
+.boboporn.com
+.boboporn.net
+.bobovip.cc
 .bobs-tube.com
 .bobvoyeur.com
 .bodgirls.com
@@ -2481,6 +2489,7 @@ assets-priconne-redive-us.akamaized.net
 .bookshome.world
 .booksinprint.com
 .bookstagram.com
+.boomerang.com
 .boomtrain.com
 .booru.org
 .booth.pm
@@ -2665,6 +2674,7 @@ assets-priconne-redive-us.akamaized.net
 .buypass.com
 .buyshoponly.com
 .buzzardflapper.com
+.buzzsprout.com
 .bvdinfo.com
 .bvfce6wz.xyz
 .bwin.com
@@ -3063,6 +3073,7 @@ assets-priconne-redive-us.akamaized.net
 .cityoflove.com
 .citytourgirls.com
 .cixp.net
+.ciyuanjie.cc
 .ckcdn.com
 .ckck.fun
 .cl1-cdn.origin-apple.com.akadns.net
@@ -3195,6 +3206,7 @@ assets-priconne-redive-us.akamaized.net
 .collective99.com
 .collegejournal.com
 .collegepornonly.com
+.collegesexgames.com
 .colombianas.webcam
 .colorfulstage.com
 .colorprotechnology.com
@@ -3341,6 +3353,7 @@ assets-priconne-redive-us.akamaized.net
 .cstatic.net
 .ctan.org
 .ctfassets.net
+.ctotires.com
 .ctyun.online
 .cuckfilmswifefuck.com
 .cuckold69.com
@@ -3824,6 +3837,7 @@ assets-priconne-redive-us.akamaized.net
 .doujinfree.com
 .doujinland.info
 .doujinnomori.com
+.doure.net
 .douwriteright.com
 .douya.org
 .douyintt10.me
@@ -3987,6 +4001,7 @@ assets-priconne-redive-us.akamaized.net
 .e-bay.net
 .e-cba.org
 .e-tugra.com
+.e53w.com
 .ea-anz-press.com
 .ea.com
 .eaaccess.com
@@ -4865,6 +4880,7 @@ assets-priconne-redive-us.akamaized.net
 .feook.com
 .ferabook.com
 .ferronetwork.com
+.ferryclean.com
 .fescebook.com
 .fesebook.com
 .festinhasbrasil.com
@@ -5304,8 +5320,10 @@ assets-priconne-redive-us.akamaized.net
 .fuckvideos.biz
 .fuhouse.club
 .fulanax.com
+.fuli3.net
 .fulib711.shop
 .fulldesisex.com
+.fullfuli.com
 .fullhdxxx.com
 .fullsexmovs.com
 .fullstory.com
@@ -6156,6 +6174,7 @@ assets-priconne-redive-us.akamaized.net
 .hkedcity.net
 .hketgroup.com
 .hkgolden.media
+.hkporn.net
 .hkt-enterprise.com
 .hkt-eye.com
 .hkt.com
@@ -6418,6 +6437,8 @@ assets-priconne-redive-us.akamaized.net
 .hu1u.com
 .huangse.love
 .huanyuju.com
+.huarenav.com
+.huarenporn.com
 .huashundg.com
 .huffingtonpost.it
 .huffpostarabi.com
@@ -7180,6 +7201,7 @@ assets-priconne-redive-us.akamaized.net
 .jfrog.com
 .jfrog.org
 .jgg18.xyz
+.jhxl.org
 .jiayoulu.com
 .jibemobile.com
 .jigsawthirsty.com
@@ -7199,6 +7221,7 @@ assets-priconne-redive-us.akamaized.net
 .jjaaxyz.com
 .jjdong7.com
 .jkbeats.com
+.jm98.cc
 .jmcomic.me
 .jmcomic.mobi
 .jmcomic.moe
@@ -7247,6 +7270,7 @@ assets-priconne-redive-us.akamaized.net
 .juliamovies.com
 .jupyter.org
 .just-do-it.cn
+.justav.net
 .justduckit.com
 .justfamilyporn.com
 .justfullporn.org
@@ -7375,6 +7399,7 @@ assets-priconne-redive-us.akamaized.net
 .korbit.co.kr
 .koreanpornmovie.com
 .korewaeroi.com
+.koskade.com
 .kostenlosepornoclips.com
 .kotlinlang.org
 .kphimsex.net
@@ -7388,6 +7413,7 @@ assets-priconne-redive-us.akamaized.net
 .kslive.tv
 .ksyp10.com
 .ktvu.com
+.kuaipa.net
 .kubakuba.global
 .kubakuba1996.com
 .kubeacademy.com
@@ -7557,6 +7583,8 @@ assets-priconne-redive-us.akamaized.net
 .linuxfoundation.org
 .linuxfromscratch.org
 .linuxmint.com
+.lisiku.com
+.lisiku1.com
 .listentoyoutube.com
 .listinganalytics.net
 .litbus-anime.com
@@ -7627,6 +7655,7 @@ assets-priconne-redive-us.akamaized.net
 .longtailvideo.com
 .lookinside.com
 .looporn.com
+.looti.net
 .lordofultima.com
 .lostbetsgames.com
 .lotcrap.com
@@ -7667,6 +7696,7 @@ assets-priconne-redive-us.akamaized.net
 .lusthero.com
 .lustteens.net
 .lustylist.com
+.luticlip.com
 .luvmov.com
 .luxuretv.com
 .luxuretv.fun
@@ -7956,6 +7986,7 @@ assets-priconne-redive-us.akamaized.net
 .mi9cdn.com
 .miamifintechfestival.com
 .miaomwu.com
+.miaopa.net
 .mickey.tv
 .mickybells.com
 .microbit.org
@@ -8542,6 +8573,7 @@ assets-priconne-redive-us.akamaized.net
 .myhulu.com
 .myicloud.net
 .myipod.net
+.myjkwd.com
 .mylcloud.net
 .mylf.com
 .mylittlenieces.com
@@ -9713,6 +9745,8 @@ assets-priconne-redive-us.akamaized.net
 .plumperpass.com
 .plusone8.com
 .plusporn.net
+.pluto.tv
+.plutotv.net
 .pm.me
 .po18.tw
 .pobl-content.com
@@ -9891,6 +9925,7 @@ assets-priconne-redive-us.akamaized.net
 .pornhuub.xyz
 .pornicom.com
 .pornimg.xyz
+.pornirani.com
 .pornjam.com
 .pornjav.org
 .pornjizz.co
@@ -10771,6 +10806,7 @@ assets-priconne-redive-us.akamaized.net
 .serviporno.com
 .seselah.com
 .sesenovel.com
+.sesez.com
 .sessoamatorialeitaliano.com
 .setapp.com
 .severeporn.com
@@ -11087,6 +11123,7 @@ assets-priconne-redive-us.akamaized.net
 .slotbitches.com
 .slutclit.com
 .slutdump.com
+.sluts.xyz
 .sluttyrat.com
 .sm.ms
 .smallteenpussy.com
@@ -11182,6 +11219,7 @@ assets-priconne-redive-us.akamaized.net
 .sonypicturesstudios.com
 .sonypicturestelevision.com
 .sonypicturestelevisiongames.com
+.soolakhi.com
 .sora6.com
 .sorairi.info
 .sorcerersarena.com
@@ -11197,6 +11235,7 @@ assets-priconne-redive-us.akamaized.net
 .spacex.com
 .spaindisney.com
 .spankbang1.com
+.spanking.wiki
 .spankingstudio.com
 .spankmonster.com
 .spankred3d.com
@@ -11518,6 +11557,7 @@ assets-priconne-redive-us.akamaized.net
 .take2games.com
 .takegoto.com
 .taknai.com
+.takporn.com
 .talentlens.com
 .taleofthenight.com
 .talksport.com
@@ -12023,6 +12063,7 @@ assets-priconne-redive-us.akamaized.net
 .twlegs.com
 .twnextdigital.com
 .twoo.com
+.twporn.net
 .twtrdns.net
 .twttr.net
 .twvid.com
@@ -12611,6 +12652,7 @@ assets-priconne-redive-us.akamaized.net
 .wawatv.net
 .wballiance.com
 .wbd.ms
+.wbdnbo.net
 .wbvm4s.com
 .wd.com
 .wdc.com
@@ -13028,6 +13070,7 @@ assets-priconne-redive-us.akamaized.net
 .xn--r8jwklh769h2mc880dk1o431a.com
 .xn--r8jwklh769hk43amcfoyl3z3a.com
 .xn--ruq8a011kt6y.xn--hxt814e
+.xn--sgt856gbjl.cc
 .xn--tkry91n.com
 .xn--ubt498knmf.com
 .xn--uis17aj9kmuf.com
@@ -13428,6 +13471,9 @@ assets-priconne-redive-us.akamaized.net
 .youyoutube.com
 .youyu.services
 .ysporn.com
+.yunlaopo.cc
+.yunlaopo.com
+.yunlaopo.net
 .yuraku.8v8.be
 .yusjb.com
 .ywbclx.top
@@ -13483,6 +13529,7 @@ assets-priconne-redive-us.akamaized.net
 .zhaimankan.com
 .zhainanjidi.xyz
 .zhainanjidid.top
+.zhimeishe888.com
 .zind.cloud
 .zingtruyen.net
 .ziporn.com
