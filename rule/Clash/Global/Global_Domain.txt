@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2023-02-22 02:14:54
+# UPDATED: 2023-02-23 02:16:40
 # DOMAIN: 178
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37832
+# DOMAIN-SUFFIX: 37866
 # IP-CIDR: 106
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 38160
+# TOTAL: 38194
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -240,6 +240,7 @@ assets-priconne-redive-us.akamaized.net
 .18doujin.com
 .18eighteen.com
 .18exgfs.com
+.18j.tv
 .18jms.com
 .18novel.xyz
 .18porncomic.com
@@ -1309,8 +1310,10 @@ assets-priconne-redive-us.akamaized.net
 .asiancamly.com
 .asiangfvideos.com
 .asiangirlsnextdoor.com
+.asianphd.com
 .asianporn.rest
 .asianpornjav.com
+.asianpornlabs.com
 .asianpornmovies.com
 .asianpornmovies.org
 .asianpornonly.com
@@ -1536,6 +1539,7 @@ assets-priconne-redive-us.akamaized.net
 .azurecosmosdb.net
 .azurecr-test.cn
 .azurecr.cn
+.azurecr.io
 .azuredatabricks.net
 .azuredevopslaunch.com
 .azuredigitaltwin.com
@@ -3207,6 +3211,7 @@ assets-priconne-redive-us.akamaized.net
 .collegejournal.com
 .collegepornonly.com
 .collegesexgames.com
+.colliderporn.com
 .colombianas.webcam
 .colorfulstage.com
 .colorprotechnology.com
@@ -4466,6 +4471,7 @@ assets-priconne-redive-us.akamaized.net
 .exs8fkw0.xyz
 .ext-twitch.tv
 .extensionworkshop.com
+.extraasian.com
 .extraindiansex.com
 .extrajapaneseporn.com
 .extreme-board.com
@@ -4751,6 +4757,7 @@ assets-priconne-redive-us.akamaized.net
 .fanbox.cc
 .fandango.com
 .fanfox.net
+.fangsung.com
 .fanhaodian.com
 .fanleakstoday.com
 .fanqianglu.com
@@ -5939,6 +5946,7 @@ assets-priconne-redive-us.akamaized.net
 .hcbdsm.com
 .hcomic.net
 .hcpdts.com
+.hd1999.top
 .hdabla.net
 .hdb1.app
 .hddgames.cc
@@ -6156,6 +6164,7 @@ assets-priconne-redive-us.akamaized.net
 .hindawi.com
 .hindiweb.com
 .hipaa6020.com
+.hiporn.net
 .hippyhillscomix.com
 .hipzoom.net
 .historyofdota.com
@@ -7091,6 +7100,7 @@ assets-priconne-redive-us.akamaized.net
 .japon-girls.com
 .japorn.tv
 .japteenx.com
+.japxtube.com
 .jasmin.com
 .jav-1080.com
 .jav-legend.com
@@ -7131,6 +7141,7 @@ assets-priconne-redive-us.akamaized.net
 .javhard.net
 .javhard.org
 .javhaven.com
+.javhd.icu
 .javhd.pro
 .javhd3x.com
 .javhdfree.net
@@ -7149,8 +7160,10 @@ assets-priconne-redive-us.akamaized.net
 .javmix.tv
 .javmost.xyz
 .javmuch.com
+.javnew.net
 .javout.co
 .javplatform.com
+.javpop.com
 .javporn.tech
 .javporn.ws
 .javpost.net
@@ -7168,7 +7181,9 @@ assets-priconne-redive-us.akamaized.net
 .javspanking.com
 .javtag.net
 .javtasty.com
+.javtiful.com
 .javtorrent.me
+.javtrailers.com
 .javtrust.com
 .javtube.com
 .javtube.net
@@ -7798,6 +7813,7 @@ assets-priconne-redive-us.akamaized.net
 .mangahentai.me
 .mangahome.com
 .mangoporn.net
+.mangotporn.com
 .manhuabika.com
 .manhub.com
 .manhunt.net
@@ -7957,6 +7973,7 @@ assets-priconne-redive-us.akamaized.net
 .mengnan.shop
 .menhdv.com
 .menshin-channel.com
+.meoriental.com
 .mepn.com
 .meraki-go.com
 .merakigo.com
@@ -8998,6 +9015,7 @@ assets-priconne-redive-us.akamaized.net
 .nivod.tv
 .nixos.org
 .niziero.info
+.njav.tv
 .nke6.com
 .nlm.io
 .nlsexfilmpjes.com
@@ -9201,6 +9219,7 @@ assets-priconne-redive-us.akamaized.net
 .onedrive.org
 .onefifteen.net
 .onefifteen.org
+.onejapanese.com
 .onepornlist.com
 .onesiterip.com
 .onestore.ms
@@ -9865,6 +9884,7 @@ assets-priconne-redive-us.akamaized.net
 .porner.tv
 .pornerbros.com
 .pornexpress.net
+.pornez.net
 .pornfacebook.com
 .pornfactory.info
 .pornfidelity.com
@@ -10208,6 +10228,7 @@ assets-priconne-redive-us.akamaized.net
 .projectsangam.com
 .projectvoyeur.com
 .promonsterbeatsbydre.com
+.pron.guru
 .propertysex.com
 .proporn.com
 .proptiger.com
@@ -10266,6 +10287,7 @@ assets-priconne-redive-us.akamaized.net
 .pussyporntubes.com
 .pussysexgames.com
 .pussyshine.info
+.pussyspace.net
 .putinho.net
 .pvp.net
 .pvp.tv
@@ -10533,6 +10555,7 @@ assets-priconne-redive-us.akamaized.net
 .repo.new
 .repsneakermall.com
 .repswing.com
+.resao.com
 .researchandcare.org
 .researchgate.net
 .researchintel.com
@@ -10644,6 +10667,7 @@ assets-priconne-redive-us.akamaized.net
 .sacduc.com
 .sacredhentai.com
 .sae.org
+.saerock.com
 .safebooru.org
 .saffrontech.com
 .sagernet.org
@@ -10792,6 +10816,7 @@ assets-priconne-redive-us.akamaized.net
 .sensueel.net
 .senzuritv.net
 .seqing.one
+.seqingwangzhan.pro
 .seqingx.com
 .sequence.com
 .serbiporno.net
@@ -10887,7 +10912,9 @@ assets-priconne-redive-us.akamaized.net
 .sexsiam.com
 .sexsim.com
 .sexsimulator.com
+.sexsiteinc.com
 .sexstoriespost.com
+.sextb.net
 .sextime.tv
 .sextop.net
 .sextop1.net
@@ -11855,6 +11882,7 @@ assets-priconne-redive-us.akamaized.net
 .topcartoonsites.com
 .topcelebnudes.com
 .topchats.com
+.topchineseporn.com
 .topcoder.com
 .topcuckolds.com
 .toperoticartsites.com
@@ -12716,6 +12744,7 @@ assets-priconne-redive-us.akamaized.net
 .wheelworks.net
 .whengirlsplay.com
 .whentai.com
+.whichav.com
 .whichav.video
 .whisolutions.com
 .whitexxxtube.com
@@ -12864,6 +12893,7 @@ assets-priconne-redive-us.akamaized.net
 .wsjwine.com
 .wto.org
 .wujieliulan.com
+.wumashe.com
 .wuso.me
 .wuxiapple.com
 .wuyefuli.org
@@ -12951,6 +12981,7 @@ assets-priconne-redive-us.akamaized.net
 .x3vid.com
 .x6av.com
 .x99av.com
+.x9wang.com
 .xacmbq.xyz
 .xamarin.com
 .xandr.com
@@ -12964,6 +12995,7 @@ assets-priconne-redive-us.akamaized.net
 .xbahis55.com
 .xbeegtube.com
 .xbnat.com
+.xbookcn.net
 .xbooks.work
 .xbox.co
 .xbox.org
@@ -13156,6 +13188,7 @@ assets-priconne-redive-us.akamaized.net
 .xvideos.la
 .xvideos.red
 .xvideos2.com
+.xvideos3.com
 .xvideosamadoras.com
 .xvideosbrasil.com
 .xvideosbrasileiro.net
@@ -13275,6 +13308,7 @@ assets-priconne-redive-us.akamaized.net
 .xxxxvideo.uno
 .xxxyoungxxx.com
 .xzxxporn.com
+.xzxxtube.com
 .yabang.org
 .yaburi.men
 .yaddal.tv
